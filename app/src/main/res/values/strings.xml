@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android Architecture</string>
+    <string name="mvc_activity">MVC Activity</string>
+    <string name="mvp_activity">MVP Activity</string>
+    <string name="mvvm_activity">MVVM Activity</string>
+    <string name="list_value">list value</string>
 </resources>
