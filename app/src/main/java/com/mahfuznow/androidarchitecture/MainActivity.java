@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.mahfuznow.androidarchitecture.mvc.MVCActivity;
+import com.mahfuznow.androidarchitecture.mvc.view.MVCActivity;
 import com.mahfuznow.androidarchitecture.mvp.MVPActivity;
 import com.mahfuznow.androidarchitecture.mvvm.MVVMActivity;
 

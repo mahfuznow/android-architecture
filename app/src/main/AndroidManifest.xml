@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.mahfuznow.androidarchitecture">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -16,7 +18,7 @@
             android:name=".mvvm.MVVMActivity"
             android:exported="true" />
         <activity
-            android:name=".mvc.MVCActivity"
+            android:name=".mvc.view.MVCActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
