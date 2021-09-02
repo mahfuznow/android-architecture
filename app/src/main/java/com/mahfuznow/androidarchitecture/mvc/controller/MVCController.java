@@ -1,7 +1,5 @@
 package com.mahfuznow.androidarchitecture.mvc.controller;
 
-import android.util.Log;
-
 import com.mahfuznow.androidarchitecture.model.Country;
 import com.mahfuznow.androidarchitecture.model.CountryService;
 import com.mahfuznow.androidarchitecture.mvc.view.MVCActivity;

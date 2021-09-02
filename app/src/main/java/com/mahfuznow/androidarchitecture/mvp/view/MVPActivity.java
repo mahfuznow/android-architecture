@@ -9,8 +9,6 @@ import android.view.MenuItem;
 
 import com.mahfuznow.androidarchitecture.R;
 
-import java.util.Objects;
-
 public class MVPActivity extends AppCompatActivity {
 
     @Override

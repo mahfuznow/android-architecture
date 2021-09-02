@@ -9,8 +9,6 @@ import android.view.MenuItem;
 
 import com.mahfuznow.androidarchitecture.R;
 
-import java.util.Objects;
-
 public class MVVMActivity extends AppCompatActivity {
 
     @Override
@@ -26,7 +24,7 @@ public class MVVMActivity extends AppCompatActivity {
         }
     }
 
-    //functionality for back arrow button
+    //for back arrow functionality
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         if (item.getItemId() == android.R.id.home) {
