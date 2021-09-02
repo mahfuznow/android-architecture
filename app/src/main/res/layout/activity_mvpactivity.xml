@@ -3,6 +3,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".mvp.MVPActivity">
+    tools:context=".mvp.view.MVPActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="50dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mvp_activity_1"
+        android:onClick="OnClickMVPActivity1"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mvp_activity_2"
+        android:onClick="OnClickMVPActivity2"
+        />
 
 </LinearLayout>

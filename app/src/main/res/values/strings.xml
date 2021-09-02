@@ -4,4 +4,6 @@
     <string name="mvp_activity">MVP Activity</string>
     <string name="mvvm_activity">MVVM Activity</string>
     <string name="list_value">list value</string>
+    <string name="mvp_activity_1">MVP Activity 1</string>
+    <string name="mvp_activity_2">MVP Activity 2</string>
 </resources>
