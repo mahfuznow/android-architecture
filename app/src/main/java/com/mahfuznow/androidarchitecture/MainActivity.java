@@ -8,7 +8,7 @@ import android.view.View;
 
 import com.mahfuznow.androidarchitecture.mvc.view.MVCActivity;
 import com.mahfuznow.androidarchitecture.mvp.view.MVPActivity;
-import com.mahfuznow.androidarchitecture.mvvm.MVVMActivity;
+import com.mahfuznow.androidarchitecture.mvvm.view.MVVMActivity;
 
 public class MainActivity extends AppCompatActivity {
 

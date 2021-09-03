@@ -21,7 +21,7 @@
             android:name=".mvp.view.MVPActivity"
             android:exported="true" />
         <activity
-            android:name=".mvvm.MVVMActivity"
+            android:name=".mvvm.view.MVVMActivity"
             android:exported="true" />
         <activity
             android:name=".mvc.view.MVCActivity"
