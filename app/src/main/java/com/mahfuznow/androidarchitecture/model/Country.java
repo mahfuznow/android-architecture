@@ -13,6 +13,8 @@ It is needed if our class variable name is different than the attribute name in 
 It's not needed if we declare our class variable same as the attribute name in JSON
 
 The JSON response is like ::
+
+ ******** Response from restcountries.eu endpoint *********
  [
    {
     "name": "Afghanistan",
@@ -23,6 +25,20 @@ The JSON response is like ::
     "name": "Albania",
     "capital": "Tirana",
     "flag": "https://restcountries.eu/data/alb.svg"
+   }
+ ]
+
+  ******** Response from mahfuznow.com endpoint *********
+ [
+   {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "flag": "/flags/afg.svg"
+   },
+   {
+    "name": "Albania",
+    "capital": "Tirana",
+    "flag": "/flags/alb.svg"
    }
  ]
 */

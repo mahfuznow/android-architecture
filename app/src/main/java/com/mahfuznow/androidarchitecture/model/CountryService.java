@@ -20,7 +20,9 @@ To work with Retrofit we basically need the following three classes:
 
 public class CountryService implements CountryAPI{
 
-    public static final String BASE_URL = "https://restcountries.eu/rest/v2/";
+    //public static final String BASE_URL = "https://restcountries.eu/rest/v2/";
+    public static final String BASE_URL = "https://mahfuznow.com/api/countries/";
+
     CountryAPI api;
 
     public CountryService() {
